@@ -4,4 +4,8 @@ third line
 
 secound couplet here
 
+<<<<<<< HEAD
 6th couplet
+=======
+5th couplet
+>>>>>>> feature
